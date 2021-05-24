@@ -38,8 +38,8 @@ banner() {
         toilet -f mono12 -F border SpeedX
     fi
     echo -e "\e[1;34m For Any Queries Join Me!!!\e[0m"
-    echo -e "\e[1;32m           Telegram: https://t.me/TBombChat \e[0m"
-    echo -e "\e[4;32m   YouTube: https://www.youtube.com/c/SpeedXTech \e[0m"
+    echo -e "\e[1;32m           Telegram: https://t.me/MGMOVIEGRAM"
+    echo -e "\e[4;32m   GROUP: https://t.me/MGMOVIEGRAM"
     echo " "
     echo "NOTE: Kindly move to the PIP version Of TBomb for more stability."
     echo " "
@@ -98,14 +98,14 @@ else
     echo .
     echo .
     install_deps
-    echo This Script Was Made By SpeedX > .update
+    echo This Script Was Made by wasim > .update
     echo 'Requirements Installed....'
     pause
 fi
 while :
 do
     banner
-    echo -e "\e[4;31m Please Read Instruction Carefully !!! \e[0m"
+    echo -e "\e[4;31m Please Read and choose option ❤"
     echo " "
     echo "Press 1 To  start SMS bombing 🎆 "
     echo "Press 2 To  Start CALL Bomber🎆 "
